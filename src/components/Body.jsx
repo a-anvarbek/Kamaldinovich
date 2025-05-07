@@ -6,7 +6,7 @@ const Wrapper = styled.div`
   color: #d8ccb5;
 
   @media (max-width: 480px) {
-    padding: 10px;
+    padding: 2px;
   }
 `;
 
