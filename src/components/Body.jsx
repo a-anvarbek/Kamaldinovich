@@ -92,7 +92,7 @@ const LaterP = styled.p`
 `;
 
 const Footer = styled.div`
-    width: 100%;
+  width: 100%;
 `;
 
 const Body = () => {
@@ -139,8 +139,9 @@ const Body = () => {
       <Title>
         <H1>Kamoldinovich</H1>
         <P>
-          Istagan yozma ravishda bo‘lgan ma’lumotlaringizni yoki shaxsiy
-          fikrlaringizni raqamli alfabit yordamida bemalol yozishingiz mumkin
+          Istagan so’zingizni gapingizni yozma ravishda ma'lumotlaringizni yoki
+          shaxsiy fikrlaringizni raqamli alfabit yordamida bemalol yozishingiz
+          mumkin
         </P>
       </Title>
       <BodyWrapper>
